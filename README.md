@@ -1,7 +1,7 @@
 4th Project - Noname
 ---
 
-![noname](./name.png)
+![noname](./noname.png)
 
 ### Installation
 
